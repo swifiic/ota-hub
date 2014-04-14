@@ -2,7 +2,7 @@
 
 	function connectToDB() {
 		$mysqlServer = 'localhost';
-		$mysqlUser = 'root';
+		$mysqlUser = 'swifiic';
 		$mysqlPassword = 'why';
 		$db = 'swifiic';
 		$link = mysql_connect($mysqlServer, $mysqlUser, $mysqlPassword);
