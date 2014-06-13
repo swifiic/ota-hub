@@ -12,12 +12,8 @@
 	<title>SWiFiIC</title>
 	<link href="./css/bootstrap.min.css" rel="stylesheet">
 	<link href="./css/bootstrap-theme.min.css" rel="stylesheet">
-	<style>
-		.footer {
-			vertical-align: bottom;
-			width: inherit;
-		}
-    </style>
+	<link rel="stylesheet" type="text/css" href="./css/custom.css">
+	<script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
 </head>
 <body>
 	<div class="container">
